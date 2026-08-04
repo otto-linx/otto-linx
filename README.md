@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/otto-linx/otto-linx/main/fondo.jpeg"
-    width="900"
+    width="800"
     alt="Banner">
 </p>
   

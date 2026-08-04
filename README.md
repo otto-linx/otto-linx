@@ -6,6 +6,7 @@
   <img
     src="https://raw.githubusercontent.com/otto-linx/otto-linx/main/fondo.jpeg"
     width="800"
+    height="300"
     alt="Banner">
 </p>
   

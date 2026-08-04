@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/otto-linx/otto-linx/main/fondo.jpeg"
+    src="https://raw.githubusercontent.com/otto-linx/otto-linx/main/bosquebonito.jpg"
     width="800"
     height="300"
     alt="Banner">

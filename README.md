@@ -1,4 +1,4 @@
-# <img scr="./Imágenes/ambient.jpg" width=10% align=right /> Hola! Mi nombre es Andres Santiago Gomez
+# <img scr="./home/otto/Imágenes/ambient.jpg" width=10% align=right /> Hola! Mi nombre es Andres Santiago Gomez
 
 **Tecnólogo en Analisis y Desarrollo de Software** 
 

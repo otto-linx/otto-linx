@@ -2,7 +2,7 @@
 
 **Tecnólogo en Analisis y Desarrollo de Software** 
 
-<img src="./home/otto/Imágenes/ambient.jpg"
+<img src="./fondo.jpeg"
   borderRadius='1Rem' boxShadow 0 '0 5px 18px rgba(0,0,0,0.3)'>
   
 <!--

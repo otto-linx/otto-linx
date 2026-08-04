@@ -1,7 +1,10 @@
-# <img scr="./home/otto/Imágenes/ambient.jpg" width=10% align=right /> Hola! Mi nombre es Andres Santiago Gomez
+# Hola! Mi nombre es Andres Santiago Gomez
 
 **Tecnólogo en Analisis y Desarrollo de Software** 
 
+<a href<img src="./home/otto/Imágenes/ambient.jpg"
+  borderRadius='1Rem' boxShadow 0 '0 5px 18px rgba(0,0,0,0.3)'>
+  
 <!--
 **otto-linx/otto-linx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,8 +2,7 @@
 
 **Tecnólogo en Analisis y Desarrollo de Software** 
 
-<img src="./fondo.jpeg"
-  borderRadius='1Rem' boxShadow 0 '0 5px 18px rgba(0,0,0,0.3)'>
+![image alt](https://github.com/otto-linx/otto-linx/blob/4afcccc10b60157892e9e3cb6a6090e0fcb347e8/fondo.jpeg).
   
 <!--
 **otto-linx/otto-linx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

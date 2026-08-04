@@ -2,7 +2,12 @@
 
 **Tecnólogo en Analisis y Desarrollo de Software** 
 
-<img src="https://github.com/otto-linx/otto-linx/blob/main/fondo.jpeg" width="700">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/otto-linx/otto-linx/main/fondo.jpeg"
+    width="900"
+    alt="Banner">
+</p>
   
 <!--
 **otto-linx/otto-linx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

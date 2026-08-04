@@ -9,6 +9,10 @@
     height="300"
     alt="Banner">
 </p>
+
+Soy un Tecnólogo en Análisis y Desarrollo de Software interesado en entornos linux, el Análisis de Datos, el Desarrollo de Aplicaciones Multiplataforma.
+
+El Contenido de los repositorios que puedes encontrar ha sido desarrollado con el objetivo de practicar el desarrollo de aplicaciones multiplataforma.
   
 <!--
 **otto-linx/otto-linx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

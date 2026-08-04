@@ -1,4 +1,6 @@
-## Hi there 👋
+#<img scr="./Imágenes/ambient.jpg" width=10% align=right /> Hola! Mi nombre es Andres Santiago Gomez
+
+**Tecnólogo en Analisis y Desarrollo de Software** 
 
 <!--
 **otto-linx/otto-linx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

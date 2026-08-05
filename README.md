@@ -25,6 +25,8 @@ El Contenido de los repositorios que puedes encontrar ha sido desarrollado con e
 ### Lenguajes
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![React-Native](https://img.shields.io/badge/React-Native-ff00ffaa?style=for-the-badge&logo=react-native&logoColor=306998)
+
   
 <!--
 **otto-linx/otto-linx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

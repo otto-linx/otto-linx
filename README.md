@@ -14,10 +14,11 @@ Soy un Tecnólogo en Análisis y Desarrollo de Software interesado en entornos l
 
 El Contenido de los repositorios que puedes encontrar ha sido desarrollado con el objetivo de practicar el desarrollo de aplicaciones multiplataforma.
 
-## Contacto
+## Contactos
 
 
 [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag0mezalv4rez@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=linkedinl&logoColor=white)](https://www.linkedin.com/in/agomezalva/)
   
 <!--
 **otto-linx/otto-linx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

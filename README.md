@@ -10,7 +10,7 @@
     alt="Banner">
 </p>
 
-Soy un Tecnólogo en Análisis y Desarrollo de Software interesado en entornos linux, el Análisis de Datos, el Desarrollo de Aplicaciones Multiplataforma.
+Soy un Tecnólogo en Análisis y Desarrollo de Software interesado en entornos linux, el Análisis de Datos y el Desarrollo de Aplicaciones Multiplataforma.
 
 El Contenido de los repositorios que puedes encontrar ha sido desarrollado con el objetivo de practicar el desarrollo de aplicaciones multiplataforma.
 
